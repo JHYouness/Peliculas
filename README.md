@@ -1,6 +1,8 @@
 <h1 align="center">Peliculas</h1>
 <h2>Acerca del proyecto</h2>
-<p>Proyecto creado para realizar consumo de apis en Flutter, en el podras saber cuales son las peliculas actuales, buscar una pelicula y ver informacion detallada de la pelicula, como la descripcion, el nombre original, puntuacion y los actores.</p>
+<p>Esta aplicación te permite ver las películas en cines o populares, puedes ver una sinopsis de cada película y el elenco de la misma.
+
+La aplicación también te da la opción de poder buscar cualquier película y ver su información relacionada.</p>
 <h3>Tecnologias utilizadas.</h3>
 
 - Visual Studio Code
